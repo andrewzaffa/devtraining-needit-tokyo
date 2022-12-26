@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Web Service Import Set Tables" source="com.snc.web_service_import_set_tables">c0a3dee0f98211108c8bd16244dfe763</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-09 09:18:34</sys_created_on>
+        <sys_id>559acd7b9712111023e03766f053afa2</sys_id>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+    </sys_package_dependency_m2m>
+</record_update>
